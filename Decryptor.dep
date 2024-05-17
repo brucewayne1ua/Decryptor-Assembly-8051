@@ -1,0 +1,4 @@
+<all>: Decryptor.mp
+<files>: Decryptor.mcp Decryptor.mcu
+Decryptor.mcu: Decryptor.asm
+Decryptor.mp: <files>
